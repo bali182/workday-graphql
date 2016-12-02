@@ -1,0 +1,6 @@
+{
+  "plugins": ["transform-decorators-legacy"],
+  "presets": ["es2015","stage-2"],
+  "highlightCode": true,
+  "sourceMaps": "inline"
+}
